@@ -1,0 +1,10 @@
+* jose
+
+A JOSE implementation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/jose.git   |
+| commit  | 484f8d2  |
+| systems | jose |
+|---------+-------------------------------------------|
+
