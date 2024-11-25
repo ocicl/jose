@@ -4,6 +4,6 @@ A JOSE implementation
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fukamachi/jose.git |
-| commit  | 5b9f42d                                   |
+| commit  | 0543b90                                   |
 | systems | jose                                      |
 |---------+-------------------------------------------|
